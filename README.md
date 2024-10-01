@@ -1,4 +1,4 @@
-# Este é um projeto pessoal, uma lista de exercícios passado por um grande mestre, com proposito de praticar os conceitos e habilidades de Python #DEVZADA
+# Este é um projeto pessoal, uma lista de exercícios passado por um grande mestre, com proposito de praticar os conceitos e habilidades em Python #DEVZADA
 
 ## Parte 1 - Nível Minhoquinha
 

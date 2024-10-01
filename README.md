@@ -42,7 +42,7 @@ def soma(numero_a, numero_b):
 | Return:
 | (int | float): Resultado da soma.
 | """
-# Código de implementação da função.
+
 5. Defina uma função chamada exibir_mensagem que receba um argumento obrigatório
 mensagem e um argumento opcional repeticoes, onde repeticoes tem um valor padrão
 de 1. A função deve imprimir a mensagem o número de vezes especificado por
